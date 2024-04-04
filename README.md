@@ -7,5 +7,11 @@
 ![圖三](https://github.com/HalladayChen/seminar_20240404/blob/main/Sliding%20DFT%20-%20initial%20formula%20result.png)<br><br>
 ### b. formula2 result
 ![圖四](https://github.com/HalladayChen/seminar_20240404/blob/main/Sliding%20DFT%20-%20recursive%20formula%20result.png)<br><br>
-## 3. matlab 原始碼
+
+## 3.第一式與其加上雜訊結果
+### a. 未加雜訊
+![圖五](https://github.com/HalladayChen/seminar_20240404/blob/main/Sliding%20DFT%20-%20initial%20formula%20result.png)<br><br>
+### b. 加上雜訊
+![圖六](https://github.com/HalladayChen/seminar_20240404/blob/main/Sliding%20DFT%20-%20initial%20formula%20-%20adding%20noise.png)<br><br>
+## 4. matlab 原始碼
 第一式與第二式已分別上傳至seminar1, seminar2。
